@@ -1,0 +1,7 @@
+work_*/
+*.pdf
+*.png
+*.nc
+*.tif
+__pycache__/
+.DS_Store
